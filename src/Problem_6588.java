@@ -4,6 +4,9 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * https://www.acmicpc.net/problem/6588
+ */
 public class Problem_6588 {
 
     private static final int MAX_SIZE = 1000000;

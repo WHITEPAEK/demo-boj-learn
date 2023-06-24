@@ -1,5 +1,8 @@
 import java.io.*;
 
+/**
+ * https://www.acmicpc.net/problem/17425
+ */
 public class Problem_17425 {
 
     private static final int MAX_SIZE = 1000000;

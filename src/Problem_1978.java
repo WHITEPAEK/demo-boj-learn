@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+/**
+ * https://www.acmicpc.net/problem/1978
+ */
 public class Problem_1978 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
